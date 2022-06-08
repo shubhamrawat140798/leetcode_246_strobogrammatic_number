@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.strobogrammatic_numbers","c":"Strobogrammatic","l":"findStrobogrammatic(int)"},{"p":"com.strobogrammatic_numbers","c":"Strobogrammatic","l":"helperRecursive(int, int)","url":"helperRecursive(int,int)"},{"p":"com.strobogrammatic_numbers","c":"Strobogrammatic","l":"Strobogrammatic()","url":"%3Cinit%3E()"}]
